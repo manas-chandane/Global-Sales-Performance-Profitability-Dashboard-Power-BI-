@@ -57,15 +57,3 @@ The dashboard is designed to support **data-driven decision-making** through cle
 - Structuring Power BI reports for performance and clarity
 
 ---
-
-## 🖼️ Screenshots / Demo
-
-- Full Dashboard View  
-- KPI Section with Conditional Formatting  
-- Sales & Profit Trend Analysis  
-- Geographic Sales Map  
-- Product & Segment Performance Analysis  
-
-*([Upload images inside a `/screenshots` folder and reference them here](https://github.com/manas-chandane/Global-Sales-Performance-Profitability-Dashboard-Power-BI-/blob/main/Dashboard.png))*
-
-Example:
